@@ -29,3 +29,9 @@ if __name__ == "__main__":
     st = "([}}])"
 
     print(a.isValid(st))
+
+
+'''
+Runtime: 32 ms, faster than 66.21% of Python3 online submissions for Valid Parentheses.
+Memory Usage: 14.1 MB, less than 96.19% of Python3 online submissions for Valid Parentheses.
+'''
